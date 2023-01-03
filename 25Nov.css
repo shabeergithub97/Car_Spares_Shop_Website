@@ -1,0 +1,198 @@
+.imgres {
+    width: 150px;
+    height: 100px;
+    padding: 5px;
+}
+.imgres:hover {
+    transform: scale(1.9);
+}
+#go {
+    background-color: rgb(237, 227, 227);
+    color: #0d0d0d  ;
+    padding: 5px 15px;
+    border-radius: 5px;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif   ;
+    font-weight: bold;
+}
+#go:hover {
+    background-color: #141515;
+    color:rgb(255, 0, 0);
+    border: 1px;
+}
+#goo1 {
+    background-color: red;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 0px;
+    margin-left: 20px;
+}
+#goo1:hover {
+    background-color: grey;
+    color: red;
+}
+.bgimg1 {
+    background-image: url("https://res.cloudinary.com/dxujeg5en/image/upload/v1669302394/modified-mazda-4k-4t_rfmpjx.jpg");
+    background-size: cover;
+    height: 150vh;
+}
+.head1 {
+    font-size: 40px;
+    font-weight: bold;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.paraline {
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+}
+.buttonst {
+    color: white;
+    background-color: red;
+    width: 230px;
+    height: 45px;
+    border-width: 0px;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.buttonst:hover  {
+    background-color: #141515;
+    color:rgb(255, 0, 0);
+    border: 1px;
+}
+.bgcolor2 {
+    background-color: whitesmoke;
+}
+.head2 {
+    color: rgb(255, 0, 34);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+}
+.para2 {
+    color: rgb(0, 21, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.carding {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: whitesmoke;
+    border-radius: 19px;
+}
+.carding:hover {
+    transform: scale(1.09);
+    transition: ease-in-out;
+}
+.cardimage {
+    width: 87px;
+    height: 90px;
+}
+.chead {
+    color: rgb(241, 90, 14);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+}
+.cpara {
+    color: rgb(31, 32, 33);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.offers {
+    color: rgb(92, 92, 166);
+    font-style: italic;
+    font-weight: 600;
+}
+.bgimgg3 {
+    background-color: whitesmoke;
+}
+.explorehead {
+    color:#183b56;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+}
+.explorecards {
+    border-radius: 16px;
+}
+.explorecards:hover {
+    transform: scale(1.1);
+}
+.exploreimage {
+    border-radius: 16px;
+}
+.cardhead4 {
+    color: #323f4b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 24px;
+}
+.explorelink {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+.paybgimg {
+    background-color: whitesmoke;
+}
+.imgpayment {
+    width: 700px;
+    height: 400px;
+}
+.payhead {
+    color: #183b56;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+}
+.paypara {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.cstbutton {
+    color: whitesmoke;
+    background-color: red;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+.paycardimg {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+#contact {
+    background-color: grey;
+    padding-bottom: 4rem;
+}
+.socialicons {
+    font-size: 40px;
+    cursor:pointer;
+}
+#icenter1 {
+    text-align: center;
+}
+.fa-brands {
+    color: rgb(244, 234, 234);
+}
+.fa-facebook, .fa-instagram, .fa-reddit, .fa-linkedin, .fa-twitter {
+    margin: 40px;
+}
+.fa-facebook:hover, .fa-instagram:hover, .fa-reddit:hover, .fa-linkedin:hover, .fa-twitter:hover {
+    color: red;
+    transform: scale(3);
+}
